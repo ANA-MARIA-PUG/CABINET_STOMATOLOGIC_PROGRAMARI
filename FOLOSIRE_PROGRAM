@@ -1,0 +1,7 @@
+-Rulează scriptul principal (main.py sau cum l-ai denumit).
+-Autentifică-te cu:
+-Username: ana
+-Parolă: anamariapug
+-Introdu datele pacientului și apasă Adaugă Programare.
+-Programările se vor salva automat în programari.csv și se vor afișa în tabel.
+-Poți căuta pacienți, șterge programări sau reseta tabelul.
